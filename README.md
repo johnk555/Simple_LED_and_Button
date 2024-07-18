@@ -1,1 +1,1 @@
-# Turn on the LED when button is pressed, turn it off otherwise
+# Simple projects with led and button
