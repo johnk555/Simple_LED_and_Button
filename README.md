@@ -1,1 +1,1 @@
-# Simple_LED_and_Button
+# Turn on the LED when button is pressed, turn it off otherwise
